@@ -57,7 +57,7 @@ Start the server
   
 ## Support
 
-For support, email saviral425@gmail.com or join our [Discord Server](https://discord.gg/bR67KzFKvC), [Discord ID](AVi#9165)
+For support, email saviral425@gmail.com or join our [Discord Server](https://discord.gg/bR67KzFKvC), Discord ID = AVi#9165
 
   
 ## Authors
